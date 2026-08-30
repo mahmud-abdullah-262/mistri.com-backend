@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mahmud-abdullah-262/mistri.com-backend#readme",
   "dependencies": {
+    "@better-auth/mongo-adapter": "^1.7.2",
     "better-auth": "^1.7.2",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
